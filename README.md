@@ -7,7 +7,7 @@ Shows a working setup for using the Black Duck CoPilot integration to analyze th
 ## Travis CI Setup
 
 The `.travis.yml` file has been modified to upload the generated data to Black Duck CoPilot:
-
+olga
 ```yaml
 after_success:
 - mvn com.blackducksoftware.integration:hub-maven-plugin:2.0.0:build-bom -Dhub.output.directory=. -Dhub.deploy.bdio=false

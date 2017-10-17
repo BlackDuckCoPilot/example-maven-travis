@@ -4,3 +4,5 @@
 
 This branch shows a working setup for Black Duck CoPilot's validation server.
 An example for public use can be found [here](https://github.com/BlackDuckCoPilot/example-maven-travis).
+
+Edit to rerere-test multi-comment issue
